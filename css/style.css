@@ -38,6 +38,9 @@ footer{
   color: white;
   padding: 2em;
 }
+#lista{
+  float: right;
+}
 
 /*header {
   background: #ca93f7;
